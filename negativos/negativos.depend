@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670251161 source:/home/weslley/Documentos/C/negativos/main.c
+	<stdio.h>
+	<stdlib.h>
+
