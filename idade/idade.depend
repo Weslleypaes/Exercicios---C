@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670169950 source:/home/weslley/Documentos/C/idade/main.c
+	<stdio.h>
+	<string.h>
+
