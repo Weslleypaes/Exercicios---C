@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670189973 source:/home/weslley/Documentos/C/circulo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
