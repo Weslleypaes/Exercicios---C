@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670189412 source:/home/weslley/Documentos/C/troco/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
