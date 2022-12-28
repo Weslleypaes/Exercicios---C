@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670244138 source:/home/weslley/Documentos/C/menorDeTres/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
