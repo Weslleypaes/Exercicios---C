@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670250330 source:/home/weslley/Documentos/C/somaImpares/main.c
+	<stdio.h>
+	<stdlib.h>
+
