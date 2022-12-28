@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670354204 source:/home/weslley/Documentos/C/somaLinhas/main.c
+	<stdio.h>
+	<stdlib.h>
+
