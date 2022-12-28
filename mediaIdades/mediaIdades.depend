@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670246382 source:/home/weslley/Documentos/C/mediaIdades/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
